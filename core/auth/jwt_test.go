@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Roverr/rtsp-stream/core/config"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/stretchr/testify/assert"
+	"github.com/willamssouza/rtsp-stream/core/config"
 )
 
 func TestJWTAuthWithSecret(t *testing.T) {

@@ -6,9 +6,9 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/Roverr/rtsp-stream/core/config"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/sirupsen/logrus"
+	"github.com/willamssouza/rtsp-stream/core/config"
 )
 
 // JWT interface describes how token validation looks like

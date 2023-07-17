@@ -3,8 +3,8 @@ package core
 import (
 	"os"
 
-	"github.com/Roverr/rtsp-stream/core/config"
 	"github.com/sirupsen/logrus"
+	"github.com/willamssouza/rtsp-stream/core/config"
 )
 
 // SetupLogger sets the logger for the proper settings based on the environment
