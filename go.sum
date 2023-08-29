@@ -31,6 +31,8 @@ github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJy
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/willamssouza/streamer v1.0.1 h1:YJxqccup8H9wmnf+gaBJX73dl268MYh/wpGJeJ3YR3w=
 github.com/willamssouza/streamer v1.0.1/go.mod h1:MX3909PFoQk51qaKkErnp+op+QIKPhv272S8GjEHxO8=
+github.com/willamssouza/streamer v1.0.2 h1:CsyqkPLMFezv5HbJWPbPlTK7mYPAOJLULgQgEkUTvN0=
+github.com/willamssouza/streamer v1.0.2/go.mod h1:MX3909PFoQk51qaKkErnp+op+QIKPhv272S8GjEHxO8=
 golang.org/x/sys v0.0.0-20190422165155-953cdadca894/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20191118090420-b5d5184f72d2 h1:LEXoa2mfx+ZHKVuyzu3/fnknuCCoTfywJVHMkWECH3Y=
 golang.org/x/sys v0.0.0-20191118090420-b5d5184f72d2/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
